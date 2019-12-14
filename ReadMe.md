@@ -1,5 +1,5 @@
-READ ME
-##########################################################################
+## READ ME
+
 
 Drafting during the cycling portion of triathlons is illegal according the USA
 Triathlon rules as drafting benefits the drafter and gives them an unfair
@@ -14,7 +14,8 @@ This program analyzes these GPX files to determine whether drafting occurred,
 by which rider, and for how long.  This method of policing can check any
 athlete who records and uploads their race.  
 
-Run main.py in Python3 to get the drafting results from two gpx files.
+To get the drafting results from two gpx files
+Python3 Main.py
 
 Running this program will give drafting information represented as the amounts
 of time that drafting rules were violated and by which rider.
